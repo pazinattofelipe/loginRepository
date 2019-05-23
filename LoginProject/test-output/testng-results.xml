@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="41547" started-at="2017-12-18T23:33:25Z" finished-at="2017-12-18T23:34:06Z">
+    <groups>
+    </groups>
+    <test name="Test Mantis" duration-ms="41547" started-at="2017-12-18T23:33:25Z" finished-at="2017-12-18T23:34:06Z">
+      <class name="automation.project.tests.AutomationExample">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:automation.project.tests.AutomationExample@62150f9e]" name="beforeTest" is-config="true" duration-ms="2904" started-at="2017-12-18T21:33:25Z" finished-at="2017-12-18T21:33:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="automationTest()[pri:0, instance:automation.project.tests.AutomationExample@62150f9e]" name="automationTest" duration-ms="37899" started-at="2017-12-18T21:33:28Z" finished-at="2017-12-18T21:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automation.project.tests.AutomationExample@62150f9e]" name="afterTest" is-config="true" duration-ms="727" started-at="2017-12-18T21:34:06Z" finished-at="2017-12-18T21:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- automation.project.tests.AutomationExample -->
+    </test> <!-- Test Mantis -->
+  </suite> <!-- Test Suite -->
+</testng-results>
